@@ -14,5 +14,5 @@ The ASDF has developed SDF into a standards-track specification for thing intera
 
 The ASDF WG will work with experts from OneDM and its contributing organizations to extend SDF to cover aspects such as digital twin, mapping to other IoT SDOs, and gateway interactions translations between IP and other transports.
 
-As work evolves, it will interact with the IRTF formal description techniques (FDT) Research Group.  ASDF will work with Thing-to-Thing Research Group (T2TRG) and its WISHI (Work on IoT Semantic/Hypermedia Interoperability, http://wishi.space) program to engage researchers and other SDOs in this space, such as W3C Web of Things, which is working on Thing Models and related specifications.
+As work evolves, ASDF will observe and may want to interact with IRTF Research Groups such as the Usable Formal Methods Research Group (UFMRG).  ASDF will work with Thing-to-Thing Research Group (T2TRG) and its WISHI (Work on IoT Semantic/Hypermedia Interoperability, http://wishi.space) program to engage researchers and other SDOs in this space, such as W3C Web of Things, which is working on Thing Models and related specifications.
 
