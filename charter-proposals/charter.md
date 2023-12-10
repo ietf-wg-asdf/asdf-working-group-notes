@@ -10,7 +10,7 @@ SDF does not deal directly with serialization at all, modelling only the structu
 The ASDF Working Group
 ----------------------
 
-The ASDF has developped SDF into a standards-track specification for thing interaction and data modelling.  In the process of developing this specification, further functional requirements have emerged that can be addressed as extensions to the base SDF specification.
+The ASDF has developed SDF into a standards-track specification for thing interaction and data modelling.  In the process of developing this specification, further functional requirements have emerged that can be addressed as extensions to the base SDF specification.
 
 The ASDF WG will work with experts from OneDM and its contributing organizations to extend SDF to cover aspects such as digital twin, mapping to other IoT SDOs, and gateway interactions translations between IP and other transports.
 
