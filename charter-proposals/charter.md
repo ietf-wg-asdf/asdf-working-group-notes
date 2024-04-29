@@ -31,7 +31,7 @@ Sept 2024: Submit a standards track document on Compact Notation for SDF to the 
 
 Sept 2024: Submit an extension to SDF to describe relationships between objects to the IESG.
 
-Sept 2024: draft-bormann-asdf-sdftype-link
+Sept 2024: Submit an extension to SDF to describe sdfTyped links to the IESG.
 
 Sept 2024: Submit an extension which allows for industry specific attributes to be included in SDF to the IESG.
 
