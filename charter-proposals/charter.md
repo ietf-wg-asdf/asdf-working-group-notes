@@ -16,7 +16,7 @@ In the process of developing this specification, further functional requirements
 
 The ASDF WG will develop these extensions in consultation with experts from OneDM and its contributing organizations to extend SDF to cover aspects such as:
 
-* location information/interaction modelling for digital twins where the corresponding physical objects can be described with SDF,
+* modeling of non-affordance attribute (e.g., location) information/interaction for digital twins where the corresponding physical objects can be described with SDF,
 
 * additional SDF modeling mechanisms to enable property mapping between additional IoT SDOs' objects (including instances, and types), and
 
