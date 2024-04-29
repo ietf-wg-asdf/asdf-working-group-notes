@@ -1,6 +1,6 @@
 # Background
 
-In 2019 One Data Model (OneDM) was started to bring several IoT SDOs and IoT device and  platform vendors together under a broad, multi-party liaison agreement, with a goal of  arriving at a common set of data and interaction models that describe IoT devices.
+In 2019 One Data Model (OneDM) was started to bring several IoT SDOs and IoT device and platform vendors together under a broad, multi-party liaison agreement, with a goal of arriving at a common set of data and interaction models that describe IoT devices.
 After some exploratory work this resulted in a successful proposal to create the ASDF WG.
 
 As a common language for writing down these models, the Semantic Definition Format went through the IETF process, producing (draft-ietf-asdf-sdf).
