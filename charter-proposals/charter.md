@@ -18,7 +18,7 @@ The ASDF WG will develop these extensions in consultation with experts from OneD
 
 * information/interaction modelling for digital twins where the corresponding physical objects can be described with SDF,
 
-* additional SDF modelling mechanisms to enable property mapping between additional IoT SDOs' objects, and
+* additional SDF modelling mechanisms to enable property mapping between additional IoT SDOs' objects (including instances, and types), and
 
 * information/interaction modelling and protocol mappings to enable gateway interactions between IP and non-IP transports.
 
