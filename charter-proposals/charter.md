@@ -27,17 +27,14 @@ ASDF will work with Thing-to-Thing Research Group (T2TRG) and its WISHI (Work on
 
 # Milestones
 
-Sept 2024: Submit a standards track document on Compact Notation for SDF to the IESG.
+Sep 2024: Submit a standards track extension to SDF to describe sdfTyped links to the IESG.
 
-Sept 2024: Submit an extension to SDF to describe relationships between objects to the IESG.
+Nov 2024: Submit a standards track extension to SDF to describe relationships between elements of models (beyond sdfRef) to the IESG.
 
-Sept 2024: Submit an extension to SDF to describe sdfTyped links to the IESG.
+Jan 2025: Submit a standards track document on Compact Notation for SDF to the IESG.
 
-Sept 2024: Submit an extension which allows for industry specific attributes to be included in SDF to the IESG.
+May 2025: Submit to the IESG a standards track specification on how to use SDF to communicate over IP with non-IP based devices.
 
-Sept 2024: Submit to the IESG a standards track document that explains how to use SDF to communicate over IP with non-IP based devices.
+Aug 2025: Submit a standards track extension which allows for industry specific attributes to be associated with a common SDF model to the IESG.
 
-Sept 2024: Submit an extension to SDF to allow for inclusion of physical location as an SDF attribute in order to support digital twins.
-
-
-
+Sep 2025: Submit a standards track extension to SDF to allow for inclusion of physical information and other non-affordance attribute information/interactions as an SDF attribute (e.g., to provide modeling support for digital twins) to the IESG.
