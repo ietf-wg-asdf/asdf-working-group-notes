@@ -20,7 +20,7 @@ The ASDF WG will develop these extensions in consultation with experts from OneD
 
 * additional SDF modeling mechanisms to enable property mapping between additional IoT SDOs' objects (including instances, and types), and
 
-* information/interaction modeling and protocol mappings to enable gateway interactions between IP and non-IP transports.
+* information/interaction modeling and protocol mappings to enable gateway interactions between IP and non-IP transports, with draft-brinckman-nipc-00 as a starting point.
 
 As work evolves, ASDF will observe and may want to interact with IRTF Research Groups such as the Usable Formal Methods Research Group (UFMRG).
 ASDF will work with Thing-to-Thing Research Group (T2TRG) and its WISHI (Work on IoT Semantic/Hypermedia Interoperability, https://wishi.space) program to engage researchers  and other SDOs in this space, such as W3C Web of Things, which is working on Thing Models and related specifications.
