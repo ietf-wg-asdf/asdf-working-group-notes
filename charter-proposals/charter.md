@@ -14,13 +14,17 @@ SDF does not deal directly with serialization at all, modeling only the structur
 The ASDF WG has developed SDF into a standards-track specification for thing interaction and data modeling.
 In the process of developing this specification, further functional requirements have emerged that can be addressed as extensions to the base SDF specification.
 
-The ASDF WG will develop these extensions in consultation with experts from OneDM and its contributing organizations to extend SDF to cover aspects such as:
+The ASDF WG will develop these extensions in consultation with experts from OneDM and its contributing organizations to extend SDF to cover the following:
+
+* modeling of links and relationships between elements of models,
 
 * modeling of non-affordance attribute (e.g., location) information/interaction for digital twins where the corresponding physical objects can be described with SDF,
 
 * additional SDF modeling mechanisms to enable property mapping between additional IoT SDOs' objects (including instances, and types), and
 
 * information/interaction modeling and protocol mappings to enable gateway interactions between IP and non-IP transports, with draft-brinckman-nipc-00 as a starting point.
+
+To increase ease of use, ASDF WG will also complete work on the proposal for a Compact Notation for SDF.
 
 As work evolves, ASDF will observe and may want to interact with IRTF Research Groups such as the Usable Formal Methods Research Group (UFMRG).
 ASDF will work with Thing-to-Thing Research Group (T2TRG) and its WISHI (Work on IoT Semantic/Hypermedia Interoperability, https://wishi.space) program to engage researchers  and other SDOs in this space, such as W3C Web of Things, which is working on Thing Models and related specifications.
