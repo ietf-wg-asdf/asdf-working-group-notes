@@ -10,7 +10,7 @@ SDF does not directly address data serialization. Instead, SDF focuses solely on
 
 The ASDF WG has developed SDF into a standards-track specification for thing interaction and data modeling. In the process of developing this specification, further functional requirements have emerged that can be addressed as extensions to the base SDF specification.
 
-The ASDF WG will liaise with OneDM and other relevant organizations to extend SDF to cover the following standard track extensions:
+The ASDF WG will liaise with OneDM and other relevant organizations. ASDF will extend SDF to cover the following standard track extensions:
 
 * modeling of links and relationships between elements of models,
 
